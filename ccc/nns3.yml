@@ -5,8 +5,8 @@ spring:
 ---
 spring:
   profiles: dev
-name: aaa3dev
+name: cccdev
 ---
 spring:
   profiles: test
-name: aaa3test
+name: ccctest
